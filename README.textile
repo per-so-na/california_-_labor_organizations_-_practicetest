@@ -1,0 +1,1 @@
+This should produce a list of Labor Organizations in the state of California, USA, using the "YellowPages dot com":http://www.yellowpages.com/ business search page.
